@@ -1,0 +1,15 @@
+# Godot
+.godot/
+
+# .NET
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Superpowers local workspaces
+.superpowers/
+.worktrees/
